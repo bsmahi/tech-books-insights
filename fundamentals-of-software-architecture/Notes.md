@@ -42,3 +42,31 @@ Architectural Characteristics refers to the _"-ilities"_ that the system must su
 10. Agility
 11. Recoverability
 12. Learnability
+
+---
+
+## What is Architecture Decision?
+
+**Architecture Decisions**: _Architecture Decisions_ define the rules for how a system should be constructed. Architecture decisions form the constraints of the system and direct the development teams on what is and what isn't allowed. In a nutshell, _architecture decisions are rules for constructing systems_.
+
+For example, _an architect might make an architecture decision that only the business and services layers within a layered architecture can access the databasse, restricting the presentation layer from making direct database calls_.
+
+## What is Variance?
+
+If a particular architecture decision cannot be implemented in one part of the system due to some condition or other constraint, that decision (or rule) can be broken through something called a _variance_
+
+## What is Design Principles?
+
+A design principle is a _guideline_ rather than a hard-and-fast rule and differs from an architecture decision.
+
+For example, _development teams ought to utilize asynchronous messaging among services in a microservices architecture to enhance performance. Since an architectural decision cannot encompass every possible condition and option for inter-service communication, a design principle can serve as guidance for the preferred method—in this instance, asynchronous messaging. This approach enables developers to select a more suitable communication protocol, such as REST or gRPC, based on the specific circumstances they encounter._
+
+## What are Expections of an Architect?
+- Make architecture decisions
+- Continually analyze the architecture
+- Keep current with latest trends
+- Ensure compliance with decisions
+- Diverse exposure and experience
+- Have business domain knowledge
+- Possess interpersonal skills
+- Understand and navigate politics
