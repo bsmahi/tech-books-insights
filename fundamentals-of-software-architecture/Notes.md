@@ -2,7 +2,9 @@
 ## Authors: Mark Richards & Neal Ford
 
 > [!IMPORTANT]
-> Architecture is about the important stuff... whatever that is - Ralph Johnson
+> _Architecture is about the important stuff... whatever that is - Ralph Johnson_.
+
+> Architecture is not so much about the software, but about the people who write the software. - Unknown
 
 - A decade ago, software architects dealt only with the purely technical aspects of architecture, like modularity, components, and patterns.
 - Since then, because of new architectural styles that leverage a wider swath of capabilities (like microservices), the role of software architect has expanded.
