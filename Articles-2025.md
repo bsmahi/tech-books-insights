@@ -1,2 +1,2 @@
-1. Software Architecture and the Art of Experimentation: [here](https://www.infoq.com/articles/architecture-experimentation)
-2. 
+1. <a href="https://www.infoq.com/articles/architecture-experimentation" target="_blank">Software Architecture and the Art of Experimentation</a>
+3. 
