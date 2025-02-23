@@ -25,5 +25,4 @@
   - Community contributed resources
   - https://lnkd.in/dRHuuAYn
 
-If you need a full DevOps Roadmap, check out here:
-  - https://lnkd.in/dNyP88SE
+- If you need a full DevOps Roadmap, check out here: https://lnkd.in/dNyP88SE
