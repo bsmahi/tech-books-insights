@@ -48,7 +48,41 @@
 - Theoretical disciplines like **mathematics and philosophy** have explored the idea of **infinity and non-closable problem spaces**.  
 - Science and Mathematics offer frameworks for dealing with problems that have **no clear boundaries**.  
 
+## Important points in Philosophy, Physics, and Technology at the Birth of the Digital Age
 
+## Historical Context  
+- Understanding computing’s future requires looking at its past, particularly the contributions of Alan Turing and John von Neumann.  
 
+## Turing’s Role  
+- Known as the father of modern computer science.  
+- Worked at Bletchley Park during WWII but did not develop the first digital computer there.  
+- Spent time in the US, studying at Princeton and later collaborating with US Intelligence.  
+
+## Von Neumann’s Contributions  
+- A polymath who extended logic beyond Boolean systems.  
+- Contributed to quantum mechanics and computing.  
+- Formalized Turing’s ideas into engineering blueprints, leading to modern processor architecture.  
+
+## Post-War Developments  
+- Turing and von Neumann worked on the first programmable computers.  
+- Both were involved in nuclear research:  
+  - **Turing’s team** developed the "Baby" computer in the UK.  
+  - **Von Neumann** advised the US government on nuclear programs.  
+
+## Philosophical Differences  
+### Turing’s Model  
+- Based on Boolean logic (true/false, on/off).  
+- Mapped well to binary electronics, making it practical for building digital computers.  
+
+### Von Neumann’s Model  
+- Saw logic as a continuous spectrum, not just binary.  
+- More abstract and theoretically flexible but harder to implement.  
+
+## Impact on Computing  
+- Turing’s binary model led to practical, functional digital computers.  
+- Von Neumann’s abstract logic laid the foundation for deeper computational theory.  
+- His continuous logic approach linked computing with quantum mechanics. 
+
+> “Nature isn’t classical, dammit, and if you want to make a simulation of nature, you’d better make it quantum mechanical…” -- Richard Feynman
 
 
