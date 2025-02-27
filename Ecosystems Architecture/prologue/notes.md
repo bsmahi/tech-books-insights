@@ -85,4 +85,45 @@
 
 > “Nature isn’t classical, dammit, and if you want to make a simulation of nature, you’d better make it quantum mechanical…” -- Richard Feynman
 
+## Important Points in Relevance to IT Architecture and Architectural Thinking
 
+### **The Rise of Quantum Computing**
+- Quantum computing is the fundamental model of computation, surpassing classical computing.
+- Classical computing, based on Turing and von Neumann architectures, is a derivative of the quantum paradigm.
+- IT architecture is still rooted in past successes rather than fundamental computing truths.
+
+### **Challenges in Modern IT Architecture**
+- The industry relies heavily on incremental improvements and hands-on traditions.
+- IT systems are growing beyond the scope of traditional, reductionist approaches.
+- Hyper-scale enterprise systems require modeling billions of actors and events, leading to overwhelming complexity.
+
+### **Need for a New IT Architectural Approach**
+- Past IT design strategies are no longer sufficient for modern enterprise-scale systems.
+- Incremental success should not define the boundaries of what is possible.
+- The future of IT architecture must embrace foundational computing principles over accumulated practices.
+
+### **The Three Ages of IT Architecture**
+1. **First Age – Algorithmic Decomposition**  
+   - Focused on rule-based, functional programming.
+   - Manual translation of logic into machine-readable forms.
+   - Dominated by algorithmic precision (e.g., Formal Methods).
+
+2. **Second Age – Object-Oriented and Semi-Formal Methods**  
+   - Introduced object-oriented programming and class decomposition.
+   - UML and TOGAF became industry standards for modeling.
+   - Shifted from strict rule-based design to visual, semi-formal methodologies.
+
+3. **Third Age – AI-Driven IT Architecture**  
+   - AI, Generative AI, and Large Language Models (LLMs) redefine architecture.
+   - Machines augment or replace human-driven architectural decisions.
+   - AI enables automation, optimization, and the handling of large-scale complexity.
+
+### **The Role of AI in IT Architecture**
+- AI is shifting IT architecture from manual programming to machine learning.
+- AI enhances human expertise rather than entirely replacing it.
+- The goal is to simplify complexity and make large-scale IT systems manageable.
+
+### **Future of IT Architecture**
+- IT must move beyond reductionist traditions to embrace broader theoretical foundations.
+- Quantum and von Neumann computing principles are key to handling modern IT system complexity.
+- IT architecture must evolve to handle the scale and unpredictability of modern digital ecosystems.
