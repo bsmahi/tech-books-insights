@@ -26,3 +26,7 @@
   - https://lnkd.in/dRHuuAYn
 
 - If you need a full DevOps Roadmap, check out here: https://lnkd.in/dNyP88SE
+
+# Top Java Blogs for Experienced Programmers 
+
+- https://blog.jetbrains.com/idea/2024/11/top-java-blogs-for-experienced-programmers/
