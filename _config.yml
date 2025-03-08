@@ -1,20 +1,37 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
 # Site settings
-title: "Tech Books Insights"
-email: "bs.mahi@gmail.com"
-description: >-
-  Exploring technical concepts and insights from books that I read.
-baseurl: "/tech-books-insights"  # The subpath for GitHub Pages
-url: "https://bsmahi.github.io"  # Your GitHub Pages URL
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-# Author information
+title: Technology Insights from Various Books
+email: bs.mahi@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Writing about the tech insights from various books which I have been reading
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://bsmlabs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+theme: minima
+
 author:
-  name: "Mahendra Rao B"
-  email: "bs.mahi@gmail.com"
-
-# Theme settings
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: dark  # Other options: default, air, aqua, etc.
-
+  name: Mahendra Rao B
+  email:  bs.mahi@gmail.com
+  
 # Navigation
 nav:
   - title: "Home"
@@ -28,34 +45,41 @@ nav:
   - title: "Tags"
     url: /tags/
   - title: "About"
-    url: /about/
+    url: /about/  
 
-# Social Links
-social:
-  github: bsmahi
-  linkedin: your-linkedin-handle
-  twitter: your-twitter-handle
+minima:
+  skin: dark
 
-# Plugins
+minima:
+  social_links:
+    github: bsmahi
+
 plugins:
   - jekyll-feed
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-sitemap
+#  - jekyll-paginate
 
-# Pagination
-#paginate: 5
-#paginate_path: "/page:num/"
+show_excerpts: true
+#paginate: false
 
-# Markdown & Syntax Highlighting
-markdown: kramdown
-highlighter: rouge
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
 
-# Exclude unnecessary files from processing
-exclude:
-  - .gitignore
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/
-  - README.md
+
+
