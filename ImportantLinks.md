@@ -30,3 +30,7 @@
 # Top Java Blogs for Experienced Programmers 
 
 - https://blog.jetbrains.com/idea/2024/11/top-java-blogs-for-experienced-programmers/
+
+# Top 100 Most Watched Tech Talks
+
+- https://www.techtalksweekly.io/p/100-most-watched-java-talks-of-2024
