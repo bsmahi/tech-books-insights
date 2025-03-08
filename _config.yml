@@ -1,53 +1,61 @@
-# Welcome to Jekyll!
-#
-# This config file contains settings that affect your entire blog.
-# If you find yourself editing this file frequently, consider using Jekyll's data files
-# for the data you need to update often.
-#
-# Note: This file is *NOT* automatically reloaded when running 'bundle exec jekyll serve'.
-# Restart the server process after making changes.
-
-# References for YAML syntax:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-
 # Site settings
-title: "Technology Insights from Various Books"
+title: "Tech Books Insights"
 email: "bs.mahi@gmail.com"
 description: >-
-  Writing about the tech insights from various books that I have been reading.
-baseurl: "/" # The subpath of your site (e.g., "/blog" for example.com/blog)
-url: "https://bsmlabs.github.io" # The base hostname & protocol for your site
+  Exploring technical concepts and insights from books that I read.
+baseurl: "/tech-books-insights"  # The subpath for GitHub Pages
+url: "https://bsmahi.github.io"  # Your GitHub Pages URL
 
-# Build settings
-theme: minima
-
+# Author information
 author:
   name: "Mahendra Rao B"
   email: "bs.mahi@gmail.com"
 
-minima:
-  skin: dark
-  social_links:
-    github: "bsmahi"
+# Theme settings
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: dark  # Other options: default, air, aqua, etc.
 
+# Navigation
+nav:
+  - title: "Home"
+    url: /
+  - title: "ArchitecturePatterns"
+    url: /ArchitecturePatterns/
+  - title: "Book Reviews"
+    url: /books/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
+    url: /about/
+
+# Social Links
+social:
+  github: bsmahi
+  linkedin: your-linkedin-handle
+  twitter: your-twitter-handle
+
+# Plugins
 plugins:
   - jekyll-feed
-  # - jekyll-paginate
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-show_excerpts: true
-# paginate: false
+# Pagination
+paginate: 5
+paginate_path: "/page:num/"
 
-# Exclude from processing
-# The following directories and files will not be processed by Jekyll.
+# Markdown & Syntax Highlighting
+markdown: kramdown
+highlighter: rouge
+
+# Exclude unnecessary files from processing
 exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
+  - .gitignore
   - Gemfile
   - Gemfile.lock
   - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+  - vendor/
+  - README.md
