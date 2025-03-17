@@ -81,12 +81,12 @@
 #   - vendor/gems/
 #   - vendor/ruby/
 
-title: Technology Insights from Various Books
-email: bs.mahi@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-#   Writing about the tech insights from various books which I have been reading
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://bsmlabs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# title: Technology Insights from Various Books
+# email: bs.mahi@gmail.com
+# description: >- # this means to ignore newlines until "baseurl:"
+# #   Writing about the tech insights from various books which I have been reading
+# baseurl: "/" # the subpath of your site, e.g. /blog
+# url: "https://bsmlabs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 theme: minima
 
