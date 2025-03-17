@@ -42,3 +42,6 @@
 # MLOps Basics
 - https://deep-learning-blogs.vercel.app/blog/mlops-project-setup-part1
 - https://github.com/graviraja/MLOps-Basics?tab=readme-ov-file
+
+# Oracle NoSql Labs
+- https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=4105
