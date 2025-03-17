@@ -96,7 +96,7 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - ImportantLinked.md
+  - ImportantLinks.md
 
 exclude:
   - .sass-cache/
