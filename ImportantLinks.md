@@ -1,4 +1,5 @@
-- Enjoy Algorithms : https://www.enjoyalgorithms.com
+# Enjoy Algorithms
+- https://www.enjoyalgorithms.com
 
 # 5 Best Github Repos to help you pass Cloud and DevOps Interviews:
 
@@ -34,3 +35,10 @@
 # Top 100 Most Watched Tech Talks
 
 - https://www.techtalksweekly.io/p/100-most-watched-java-talks-of-2024
+
+# AI Transformer
+- https://jalammar.github.io/illustrated-transformer/
+
+# MLOps Basics
+- https://deep-learning-blogs.vercel.app/blog/mlops-project-setup-part1
+- https://github.com/graviraja/MLOps-Basics?tab=readme-ov-file
