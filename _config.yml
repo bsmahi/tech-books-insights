@@ -1,11 +1,11 @@
 
-theme: minima
+# theme: minima
 
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - ImportantLinks.md
+# plugins:
+#   - jekyll-relative-links
+# relative_links:
+#   enabled: true
+#   collections: true
+# include:
+#   - ImportantLinks.md
 
