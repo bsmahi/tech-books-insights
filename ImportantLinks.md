@@ -73,3 +73,6 @@
 - VPC Network Segmentation: https://lnkd.in/grtAeerp
 - Lambda Integrations: https://lnkd.in/gcvhvXbr
 - Serverless Architecture: https://lnkd.in/gvFdB3dF
+
+# Choosing Message Broker - Apache Kafka Vs Amazon SQS or FIFO SQS
+- https://www.infoq.com/articles/choosing-message-broker/
