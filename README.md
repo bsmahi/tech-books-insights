@@ -6,7 +6,7 @@
 * [Maths Links](./MathsLinks.md)
 
 ## Architecture
-* [Software Architecture and the Art of Experimentation](https://www.infoq.com/articles/architecture-experimentatio)
+* [Software Architecture and the Art of Experimentation](https://www.infoq.com/articles/architecture-experimentation)
 
 ## Spring   
 * [Spring Essentials](./spring/SpringNotes.md)
