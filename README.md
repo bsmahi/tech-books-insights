@@ -12,3 +12,6 @@
 * [Spring Essentials](./spring/SpringNotes.md)
 * [Software Architecture Styles](./ArchitecturePatterns/SoftwareArchitectureStyles.pdf)
 * [Event Driven Architecture](./ArchitecturePatterns/event-driven-architecture.md)
+
+## Computer Science
+* [Free Computer Science Courses from the World's Top Universities](https://www.freecodecamp.org/news/free-courses-top-cs-universities/)
