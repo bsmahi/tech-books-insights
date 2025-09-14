@@ -2,34 +2,34 @@
 
 ## Table of Contents
 
-### **Phase 1: Foundation (Weeks 1-3)**
+### **Module 1: Foundation**
 1. [Introduction to Kotlin](#1-introduction-to-kotlin)
 2. [Development Environment Setup](#2-development-environment-setup)
 3. [Basic Syntax and Variables](#3-basic-syntax-and-variables)
 4. [Data Types and Type System](#4-data-types-and-type-system)
 5. [Control Flow](#5-control-flow)
 
-### **Phase 2: Core Programming Concepts (Weeks 4-7)**
+### **Module 2: Core Programming Concepts**
 6. [Functions](#6-functions)
 7. [Object-Oriented Programming](#7-object-oriented-programming)
 8. [Collections](#8-collections)
 9. [Exception Handling](#9-exception-handling)
 10. [Null Safety](#10-null-safety)
 
-### **Phase 3: Advanced Features (Weeks 8-11)**
+### **Module 3: Advanced Features**
 11. [Functional Programming](#11-functional-programming)
 12. [Generics](#12-generics)
 13. [Extension Functions](#13-extension-functions)
 14. [Coroutines and Concurrency](#14-coroutines-and-concurrency)
 15. [Reflection and Annotations](#15-reflection-and-annotations)
 
-### **Phase 4: Specialization Tracks (Weeks 12-16)**
+### **Module 4: Specialization Tracks**
 16. [Android Development Track](#16-android-development-track)
 17. [Backend Development Track](#17-backend-development-track)
 18. [Multiplatform Development Track](#18-multiplatform-development-track)
 19. [Data Science Track](#19-data-science-track)
 
-### **Phase 5: Advanced Topics and Best Practices (Weeks 17-20)**
+### **Module 5: Advanced Topics and Best Practices**
 20. [Testing in Kotlin](#20-testing-in-kotlin)
 21. [Design Patterns](#21-design-patterns)
 22. [Performance and Optimization](#22-performance-and-optimization)
