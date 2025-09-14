@@ -39,7 +39,7 @@
 
 ## Detailed Course Content
 
-## **Phase 1: Foundation (Weeks 1-3)**
+## **Module 1: Foundation**
 
 ### 1. Introduction to Kotlin
 **Duration: 3-4 hours**
@@ -193,7 +193,7 @@
 
 ---
 
-## **Phase 2: Core Programming Concepts (Weeks 4-7)**
+## **Module 2: Core Programming Concepts (Weeks 4-7)**
 
 ### 6. Functions
 **Duration: 8-10 hours**
@@ -381,7 +381,7 @@
 
 ---
 
-## **Phase 3: Advanced Features (Weeks 8-11)**
+## **Module 3: Advanced Features**
 
 ### 11. Functional Programming
 **Duration: 10-12 hours**
@@ -549,7 +549,7 @@
 
 ---
 
-## **Phase 4: Specialization Tracks (Weeks 12-16)**
+## **Module 4: Specialization Tracks**
 
 ### 16. Android Development Track
 **Duration: 20-25 hours**
@@ -675,7 +675,7 @@
 
 ---
 
-## **Phase 5: Advanced Topics and Best Practices (Weeks 17-20)**
+## **Module 5: Advanced Topics and Best Practices**
 
 ### 20. Testing in Kotlin
 **Duration: 8-10 hours**
@@ -794,25 +794,9 @@
 
 ---
 
-## Learning Resources and Prerequisites
+Reference: 
 
-### Prerequisites:
-- Basic programming knowledge (preferably Java or similar OOP language)
-- Understanding of software development concepts
-- Familiarity with IDEs
+- [Kotlin Reference](https://kotlinlang.org/education/)
 
-### Recommended Resources:
-- **Official Documentation**: kotlinlang.org
-- **Books**: "Kotlin in Action", "Programming Kotlin", "Head First Kotlin"
-- **Online Courses**: Coursera, Udemy, Pluralsight Kotlin courses
-- **Practice Platforms**: Kotlin Koans, Exercism, HackerRank
-- **Community**: Kotlin Slack, Stack Overflow, Reddit r/Kotlin
-
-### Assessment Methods:
-- Weekly coding assignments
-- Mid-phase projects
-- Final capstone project
-- Peer code reviews
-- Technical presentations
 
 This roadmap provides a structured path from Kotlin basics to professional-level development across multiple domains, ensuring comprehensive coverage of the language and its ecosystem.
