@@ -1,4 +1,4 @@
-# Java 25 Features
+# The Road to Java 25 Features - Verbose to Minimalistic
 
 _On **September 16, 2025**, Java released the 25th version of the Java Development Kit (JDK), designated as
 a **Long-Term Support (LTS)** release with support guaranteed for a minimum of eight years.
