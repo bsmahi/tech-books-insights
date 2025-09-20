@@ -16,7 +16,7 @@ support next-generation, AI-powered application development._
 
 ### 1. Language Enhancement Features
 
-- **Module Import Declarations**
+- [**Module Import Declarations**](#1-module-import-declarations)
 - **Compact Source Files and Instance Main Methods**
 - **Flexible Constructor Bodies**
 - **(_Third Preview_) Primitive Types of Patterns, instanceof, and Switch**
