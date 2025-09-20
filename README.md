@@ -18,3 +18,6 @@
 
 ## Kotlin
 * [Kotlin RoadMap](./kotlin_roadmap.md)
+
+## Java 
+* [The Road to Java 25](./java/java25features.md)
