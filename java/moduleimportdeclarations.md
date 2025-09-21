@@ -455,5 +455,5 @@ public class ImportsInJDK25 {
   you'd either:
     - Use `import java.sql.Date;`, or
     - Import the `import module java.sql` module
-      
-[🔙 Back to Main Document](jdk25features.md)
+
+[⬅️ Back to Main Document](jdk25features.html)
