@@ -57,6 +57,60 @@ support next-generation, AI-powered application development._
 - [MacOS](https://www.jetbrains.com/idea/download/?section=mac)
 - [Linux](https://www.jetbrains.com/idea/download/?section=linux)
 
+### How to Download and Set Up **JDK 25** in IntelliJ IDEA
+
+Follow the steps below to download and configure **Java Development Kit (JDK) version 25** directly within IntelliJ IDEA.
+
+---
+
+## Step-by-Step Instructions
+
+### 1. **Open IntelliJ IDEA**
+Launch IntelliJ IDEA on your system.
+
+### 2. **Navigate to Project Structure**
+- Go to the top menu bar
+- Click on `File` > `Project Structure...`  
+  *(Shortcut: `Ctrl+Alt+Shift+S` on Windows/Linux or `⌘ + ;` on macOS)*
+
+### 3. **Go to SDKs Configuration**
+- In the **Project Structure** window, under **Platform Settings**, select the **SDKs** tab from the left sidebar.
+
+### 4. **Add a New JDK**
+- Click the `+` (Add New SDK) button at the top.
+- Select `Download JDK...` from the dropdown.
+
+### 5. **Configure the JDK Download**
+In the **Download JDK** dialog:
+- **Version:** Select `25` from the version dropdown.
+- **Vendor:** Choose your preferred vendor, such as:
+    - `Oracle OpenJDK 25`
+    - `Amazon Corretto 25`
+    - `Zulu by Azul 25`
+    - `Eclipse Temurin 25`
+- **Location:** Leave it as the default, or choose a custom folder where you want the JDK to be installed.
+
+![JDK25 Download](JDK25Download.png)
+
+### 6. **Download and Apply**
+- Click `Download` to begin the installation process.
+- Once the download is complete, the new JDK will be added to your SDKs list.
+
+### 7. **Assign JDK to Your Project**
+- In the **Project Structure** window, go to the **Project** tab under **Project Settings**.
+- Set the **Project SDK** to the newly downloaded JDK 25.
+- Ensure the **Project language level** is set appropriately (e.g., `25 – Preview features` if needed).
+
+![ProjectJDK25Config.png](ProjectJDK25Config.png)
+### 8. **Click OK/Apply**
+- Click `Apply`, then `OK` to save changes and close the Project Structure dialog.
+
+---
+
+## You’re Done!
+**JDK 25** is now configured and ready to use in your IntelliJ IDEA project!
+
+
 Firstly, we will explore about the **Language Enhancement Features**
 
 ### 1. Module Import Declarations
