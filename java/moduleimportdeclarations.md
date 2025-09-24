@@ -55,7 +55,12 @@ Importing all these classes and interfaces individually can sometimes be a daunt
 It also increases the number of import statements in the file, leading to more verbose and cluttered code.
 
 However, with **_Module Import Declarations_** feature, we can get rid of importing all the classes and packages just
-importing single import statement. We have to follow the below convention for **Module Import Declaration**
+importing single import statement. We have to follow the below convention for **Module Import Declaration**.
+
+Typically, it follows,
+```java
+import module <module name>;
+```
 
 For example
 
