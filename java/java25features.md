@@ -32,13 +32,13 @@ support next-generation, AI-powered application development._
 - **Key Derivation Function API**
 - **(_Preview_) PEM Encodings of Cryptographic Objects**
 
-### 3. Performance Enhancement Features
+### 4. Performance Enhancement Features
 
 - **Compact Object Headers**
 - **Ahead-of-Time Command-Line Ergonomics**
 - **Ahead-of-Time Method Profiling**
 
-### 4. Monitoring Enhancement Features
+### 5. Monitoring Enhancement Features
 
 - **Compact Object Headers**
 - **Ahead-of-Time Command-Line Ergonomics**
