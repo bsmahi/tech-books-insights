@@ -3,18 +3,6 @@ Firstly, we will explore about the **Language Enhancement Features**
 
 ### 1. Module Import Declarations
 
-#### Feature Evolution Summary
-
-- **[JEP 476 – Incubation](https://openjdk.org/jeps/476)**:  
-  Introduced the feature as an incubator module, allowing early access for developers to try it and provide feedback.
-
-- **[JEP 494 – Second Preview](https://openjdk.org/jeps/494)**:  
-  The feature was refined based on feedback and made available as a preview (not enabled by default).
-
-- **[JEP 511 – Finalized](https://openjdk.org/jeps/511)**:  
-  The feature is standardized and fully integrated into **JDK 25**, no longer requiring preview flags or special
-  modules.
-
 #### Before JDK 25
 
 Traditionally, classes and packages from `java.lang.*` are automatically imported by the compiler. However, nowadays,
@@ -51,7 +39,19 @@ public class ImportBeforeJDK25 {
 
 #### In JDK 25
 
-Importing all these classes and interfaces individually can sometimes be a daunting and repetitive task for developers.
+#### Feature Evolution Summary
+
+- **[JEP 476 – Incubation](https://openjdk.org/jeps/476)**:  
+  Introduced the feature as an incubator module, allowing early access for developers to try it and provide feedback.
+
+- **[JEP 494 – Second Preview](https://openjdk.org/jeps/494)**:  
+  The feature was refined based on feedback and made available as a preview (not enabled by default).
+
+- **[JEP 511 – Finalized](https://openjdk.org/jeps/511)**:  
+  The feature is standardized and fully integrated into **JDK 25**, no longer requiring preview flags or special
+  modules.
+
+Importing all the classes and interfaces individually can sometimes be a daunting and repetitive task for developers.
 It also increases the number of import statements in the file, leading to more verbose and cluttered code.
 
 However, with **_Module Import Declarations_** feature, we can get rid of importing all the classes and packages just
@@ -155,5 +155,8 @@ public class ImportsInJDK25 {
   you'd either:
     - Use `import java.sql.Date;`, or
     - Import the `import module java.sql` module
+ 
+This leads us to another significant feature included in this release i.e., **_Compact Source Files and Instance Main Methods_**
+
       
 [⬅️ Main Document](java25features.md)
