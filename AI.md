@@ -1,0 +1,4 @@
+- Olma 3: https://www.datocms-assets.com/64837/1763662397-1763646865-olmo_3_technical_report-1.pdf
+- https://www.interconnects.ai/p/olmo-3-americas-truly-open-reasoning
+- AllenAI: https://huggingface.co/allenai/collections
+- OLMo-core: https://github.com/allenai/olmo-core
