@@ -1,5 +1,8 @@
 ## _The more I learn, the more I realize how much I don't know. — Albert Einstein_
 
+## Artificial Intelligence
+* [AI Links](./AI.md)
+
 * [ImportantLinks](./ImportantLinks.md)
   
 ## Mathematics
